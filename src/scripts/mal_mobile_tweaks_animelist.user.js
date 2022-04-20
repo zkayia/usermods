@@ -4,7 +4,8 @@
 // @version      1.3.5
 // @author       zkayia
 // @namespace    https://github.com/zkayia/usermods
-// @downloadURL  https://raw.githubusercontent.com/zkayia/usermods/master/src/scripts/mal_mobile_tweaks_animelist.js
+// @downloadURL  https://github.com/zkayia/usermods/raw/master/src/scripts/mal_mobile_tweaks_animelist.user.js
+// @updateURL    https://github.com/zkayia/usermods/raw/master/src/scripts/mal_mobile_tweaks_animelist.user.js
 // @homepageURL  https://github.com/zkayia/usermods
 // @supportURL   https://github.com/zkayia/usermods
 // @match        https://myanimelist.net/animelist/*

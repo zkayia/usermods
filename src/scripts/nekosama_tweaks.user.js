@@ -4,7 +4,7 @@
 // @version      1.0.2
 // @author       zkayia
 // @namespace    https://github.com/zkayia/usermods
-// @downloadURL  https://raw.githubusercontent.com/zkayia/usermods/master/src/scripts/nekosama_tweaks.js
+// @downloadURL  https://github.com/zkayia/usermods/raw/master/src/scripts/nekosama_tweaks.user.js
 // @homepageURL  https://github.com/zkayia/usermods
 // @supportURL   https://github.com/zkayia/usermods
 // @match        https://neko-sama.fr/anime/
