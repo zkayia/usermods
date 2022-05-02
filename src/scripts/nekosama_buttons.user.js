@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Neko Sama Buttons
 // @description  Adds 8s quick forward and backward buttons, plus a intro skip button
-// @version      1.2.3
+// @version      1.2.4
 // @author       zkayia
 // @namespace    https://github.com/zkayia/usermods
 // @downloadURL  https://github.com/zkayia/usermods/raw/master/src/scripts/nekosama_buttons.user.js
@@ -69,5 +69,6 @@ window.addEventListener("load", () => {
 	document.getElementById("cstm-button-skp").addEventListener("click", () => {f_setTime(88);}, false);
 	prev.remove();
 
-	document.querySelectorAll(".jw-icon-rewind").forEach(e => e.remove());
+	document.querySelector(".jw-icon-rewind.jw-icon-inline")?.remove();
+	document.querySelector(".jw-icon-rewind")?.setAttribute("style", "visibility: hidden;");
 }, false);
