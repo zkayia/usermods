@@ -1,7 +1,7 @@
 
 # usermods
 
-A collection of userscripts and userstyles.
+Collection of userscripts and userstyles.
 
 ## Scripts
 
