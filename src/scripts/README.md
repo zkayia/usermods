@@ -62,3 +62,19 @@ Adds 8s quick forward and backward buttons, plus a intro skip button (88s). Work
 Replaces the search on type bar with a search on confirm and adds a search button. The new bar updates search results only when pressing enter or clicking the search button, greatly reducing background and unnecessary work. Works on mobile aswell.
 
 ![Demo screenshot](demos/nekosama_tweaks_searchbar.png "Demo screenshot")
+
+
+## wakapi_language_time.user.js
+
+[Install](https://github.com/zkayia/usermods/raw/master/src/scripts/wakapi_language_time.user.js)
+|
+[Source](wakapi_language_time.user.js)
+
+Adds the time spent per lang in [Wakapi's](https://wakapi.dev/) language chart.
+
+Before | After
+:---:|:---:
+![Demo screenshot before][wakapi_language_time_before]|![Demo screenshot after][wakapi_language_time_after]
+
+[wakapi_language_time_before]: demos/wakapi_language_time_before.png "Demo screenshot before"
+[wakapi_language_time_after]: demos/wakapi_language_time_after.png "Demo screenshot after"
