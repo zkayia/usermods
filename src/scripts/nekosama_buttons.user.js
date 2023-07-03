@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Neko Sama Buttons
 // @description  Adds 8s quick forward and backward buttons, plus a intro skip button
-// @version      1.2.4
+// @version      1.2.5
 // @author       zkayia
 // @namespace    https://github.com/zkayia/usermods
 // @downloadURL  https://github.com/zkayia/usermods/raw/master/src/scripts/nekosama_buttons.user.js
@@ -9,6 +9,7 @@
 // @homepageURL  https://github.com/zkayia/usermods
 // @supportURL   https://github.com/zkayia/usermods
 // @match        https://www.pstream.net/e/*
+// @match        https://fusevideo.net/e/*
 // @run-at       document-body
 // @grant        none
 // ==/UserScript==
